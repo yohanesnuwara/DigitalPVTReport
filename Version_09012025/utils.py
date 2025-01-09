@@ -250,8 +250,8 @@ def write_value_to_excel(workbook, sheet_name, cell, value):
     if current_value is None or current_value == '':
         sheet.cell(row=row, column=col, value=value)
     else:
-        print(f"Cell {cell} in sheet '{sheet_name}' already contains a value. Skipping overwrite.")
-
+        # print(f"Cell {cell} in sheet '{sheet_name}' already contains a value. Skipping overwrite.")
+        
 # Main Process
 def process_pdf_to_excel(df_table, sample, report, template_path, output_path, all_queries):
     workbook = load_workbook(template_path)
@@ -260,10 +260,10 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
     for query in all_queries:
         query_page = query_to_page(df_table, query, sample).tolist()
         if not query_page:
-            print(f'Page of Query {query} NOT FOUND')
+            # print(f'Page of Query {query} NOT FOUND')
             continue
 
-        print(f'Page of Query {query} FOUND: Page {query_page}')
+        # print(f'Page of Query {query} FOUND: Page {query_page}')
 
         pvt_table = None  # Initialize pvt_table for the current query
 
@@ -299,7 +299,7 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
                                                  c30_mw)
 
                 except:
-                    print('ERROR writing Molecular Weight and GOR')
+                    # print('ERROR writing Molecular Weight and GOR')
 
                 tables = tables.iloc[2:-1, :5]
                 colname = ['Boiling Point (K)', 'Component', 'Formula', 'Mole Amounts', 'Mass Amounts']
@@ -329,7 +329,8 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
                                                  c30_mw)
 
                 except:
-                    print('ERROR writing Molecular Weight and GOR')
+                    # print('ERROR writing Molecular Weight and GOR')
+                    pass
 
                 tables = tables.iloc[2:-1, :5]
                 colname = ['Boiling Point (K)', 'Component', 'Formula', 'Mole Amounts', 'Mass Amounts']
@@ -359,7 +360,8 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
                         #                          c30_mw)
 
                 except:
-                    print('ERROR writing Molecular Weight and Fluid Density')
+                    # print('ERROR writing Molecular Weight and Fluid Density')
+                    pass
 
                 tables = tables.iloc[2:-1, :5]
                 colname = ['Boiling Point (K)', 'Component', 'Formula', 'Mole Amounts', 'Mass Amounts']
@@ -383,7 +385,8 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
                                                  variable_config[query]['specific_gravity']['cell'],
                                                  specific_gravity)
                 except:
-                    print('ERROR Writing Molecular Weight and Specific Gravity')
+                    # print('ERROR Writing Molecular Weight and Specific Gravity')
+                    pass
 
                 tables = tables.iloc[2:-8, :4]
                 colname = ['Component', 'Formula', 'Mole Amounts', 'Mass Amounts']
@@ -430,7 +433,7 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
                 pvt_table = tables.drop(columns=['Formula'])  # Needs further modification later
                 # pvt_table = tables.copy()  # Needs further modification later
 
-            print(tables.head(), '\n')
+            # print(tables.head(), '\n')
             multitables.append(pvt_table)
 
         # Special condition For CVD Wellstream Compositions
@@ -445,7 +448,7 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
             # Write the pressures of CVD as column name
             pressure_col = pvt_table.columns[2:]
             pressure_col = [str(i)+str(' psia') for i in pressure_col]
-            print(pressure_col)
+            # print(pressure_col)
             write_list_to_excel(workbook, pressure_col,
                                 sheet_name="CVD Experimental Data",
                                 start_cell="Y4")
@@ -457,8 +460,9 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
             start_cell = config[query]['start_cell']
             write_dataframe_to_excel(pvt_table, workbook, sheet_name, start_cell)
         else:
-            print(f"No mapping found for query '{query}' in config or no data extracted for this query.")
-
+            # print(f"No mapping found for query '{query}' in config or no data extracted for this query.")
+            pass
+            
     pages.append(query_page)
 
     # Save the updated workbook
