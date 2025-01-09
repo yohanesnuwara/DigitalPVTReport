@@ -301,6 +301,7 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
 
                 except:
                     # print('ERROR writing Molecular Weight and GOR')
+                    pass
 
                 tables = tables.iloc[2:-1, :5]
                 colname = ['Boiling Point (K)', 'Component', 'Formula', 'Mole Amounts', 'Mass Amounts']
