@@ -253,7 +253,7 @@ def write_value_to_excel(workbook, sheet_name, cell, value):
         print(f"Cell {cell} in sheet '{sheet_name}' already contains a value. Skipping overwrite.")
 
 # Main Process
-def process_pdf_to_excel(sample, report, template_path, output_path, all_queries):
+def process_pdf_to_excel(df_table, sample, report, template_path, output_path, all_queries):
     workbook = load_workbook(template_path)
 
     pages = []
