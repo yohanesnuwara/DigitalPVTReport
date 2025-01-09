@@ -65,7 +65,7 @@ def camelot_detect_table(report, page, flavor="stream"):
     df = largest_table.df
     return df
 
-def query_to_page(query, sample):
+def query_to_page(df_table, query, sample):
     # Define mapping for query conditions
     query_conditions = {
         'Compositional data - Recombined Fluid': {
@@ -258,7 +258,7 @@ def process_pdf_to_excel(df_table, sample, report, template_path, output_path, a
 
     pages = []
     for query in all_queries:
-        query_page = query_to_page(query, sample).tolist()
+        query_page = query_to_page(df_table, query, sample).tolist()
         if not query_page:
             print(f'Page of Query {query} NOT FOUND')
             continue
