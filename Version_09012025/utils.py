@@ -254,7 +254,7 @@ def write_value_to_excel(workbook, sheet_name, cell, value):
         pass
         
 # Main Process
-def process_pdf_to_excel(df_table, sample, report, template_path, output_path, all_queries):
+def process_pdf_to_excel(df_table, config, sample, report, template_path, output_path, all_queries):
     workbook = load_workbook(template_path)
 
     pages = []
