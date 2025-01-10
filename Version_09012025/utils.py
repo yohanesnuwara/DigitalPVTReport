@@ -232,6 +232,27 @@ def write_dataframe_to_excel(df, workbook, sheet_name, start_cell):
             else:
                 print(f"Cell ({i}, {j}) in sheet '{sheet_name}' already contains a value. Skipping overwrite.")
 
+def write_value_to_excel(workbook, sheet_name, cell, value):
+    """
+    Write a single value to a specific cell in the Excel workbook, without overwriting existing values.
+    :param workbook: Loaded openpyxl Workbook object.
+    :param sheet_name: Name of the sheet where the value will be written.
+    :param cell: Cell address (e.g., 'I3') where the value will be written.
+    :param value: The value to write.
+    """
+    if sheet_name not in workbook.sheetnames:
+        raise ValueError(f"Sheet '{sheet_name}' does not exist in the workbook.")
+    sheet = workbook[sheet_name]
+    row, col = parse_start_cell(cell)
+
+    # Check if the cell already has a value
+    current_value = sheet.cell(row=row, column=col).value
+    if current_value is None or current_value == '':
+        sheet.cell(row=row, column=col, value=value)
+    else:
+        print(f"Cell {cell} in sheet '{sheet_name}' already contains a value. Skipping overwrite.")
+
+
 def process_pdf_to_excel(df_table, config, sample, report, template_path, output_path, all_queries):
     workbook = load_workbook(template_path)
 
