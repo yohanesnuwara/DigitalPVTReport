@@ -1,0 +1,4812 @@
+{
+    "top_perforation_depth": null,
+    "top_perforation_depth_unit": null,
+    "bottom_perforation_depth": null,
+    "bottom_perforation_depth_unit": null,
+    "flashed_oil_mw": 151.9,
+    "flashed_oil_density": 0.777,
+    "flashed_oil_density_unit": "g/cm3",
+    "flashed_oil_contamination": null,
+    "flashed_oil_contamination_unit": null,
+    "flashed_oil_temperature": 60.0,
+    "flashed_oil_temperature_unit": "F",
+    "flashed_oil_composition_id": 3538,
+    "flashed_oil_composition": {
+        "id": 3538,
+        "components": [
+            {
+                "composition_id": 3538,
+                "name": "CO2",
+                "input_name": "CO2",
+                "order": 0,
+                "mw": 44.01,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 3538,
+                "name": "H2S",
+                "input_name": "H2S",
+                "order": 1,
+                "mw": 34.08,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 3538,
+                "name": "N2",
+                "input_name": "N2",
+                "order": 2,
+                "mw": 28.01,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 3538,
+                "name": "C1",
+                "input_name": "C1",
+                "order": 3,
+                "mw": 16.04,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 3538,
+                "name": "C2",
+                "input_name": "C2",
+                "order": 4,
+                "mw": 30.07,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 3538,
+                "name": "C3",
+                "input_name": "C3",
+                "order": 5,
+                "mw": 44.1,
+                "molar_amount": 1.792,
+                "mass_amount": 0.52
+            },
+            {
+                "composition_id": 3538,
+                "name": "i-C4",
+                "input_name": "i-C4",
+                "order": 6,
+                "mw": 58.12,
+                "molar_amount": 0.398,
+                "mass_amount": 0.152
+            },
+            {
+                "composition_id": 3538,
+                "name": "n-C4",
+                "input_name": "n-C4",
+                "order": 7,
+                "mw": 58.12,
+                "molar_amount": 1.064,
+                "mass_amount": 0.407
+            },
+            {
+                "composition_id": 3538,
+                "name": "i-C5",
+                "input_name": "i-C5",
+                "order": 8,
+                "mw": 72.15,
+                "molar_amount": 0.609,
+                "mass_amount": 0.289
+            },
+            {
+                "composition_id": 3538,
+                "name": "n-C5",
+                "input_name": "n-C5",
+                "order": 9,
+                "mw": 72.15,
+                "molar_amount": 0.958,
+                "mass_amount": 0.455
+            },
+            {
+                "composition_id": 3538,
+                "name": "C6",
+                "input_name": "C6",
+                "order": 10,
+                "mw": 84.0,
+                "molar_amount": 4.088,
+                "mass_amount": 2.261
+            },
+            {
+                "composition_id": 3538,
+                "name": "MC-C5",
+                "input_name": "Mcyclo-C5",
+                "order": 11,
+                "mw": 84.16,
+                "molar_amount": 0.827,
+                "mass_amount": 0.458
+            },
+            {
+                "composition_id": 3538,
+                "name": "Benzene",
+                "input_name": "Benzene",
+                "order": 12,
+                "mw": 78.11,
+                "molar_amount": 0.139,
+                "mass_amount": 0.072
+            },
+            {
+                "composition_id": 3538,
+                "name": "C-C6",
+                "input_name": "Cyclo-C6",
+                "order": 13,
+                "mw": 84.16,
+                "molar_amount": 1.164,
+                "mass_amount": 0.645
+            },
+            {
+                "composition_id": 3538,
+                "name": "C7",
+                "input_name": "C7",
+                "order": 14,
+                "mw": 96.0,
+                "molar_amount": 7.958,
+                "mass_amount": 5.029
+            },
+            {
+                "composition_id": 3538,
+                "name": "2M-C6",
+                "input_name": "Mcyclo-C6",
+                "order": 15,
+                "mw": 98.19,
+                "molar_amount": 4.246,
+                "mass_amount": 2.744
+            },
+            {
+                "composition_id": 3538,
+                "name": "Toluene",
+                "input_name": "Toluene",
+                "order": 16,
+                "mw": 92.14,
+                "molar_amount": 1.235,
+                "mass_amount": 0.749
+            },
+            {
+                "composition_id": 3538,
+                "name": "C8",
+                "input_name": "C8",
+                "order": 17,
+                "mw": 107.0,
+                "molar_amount": 12.741,
+                "mass_amount": 8.974
+            },
+            {
+                "composition_id": 3538,
+                "name": "E-Benzene",
+                "input_name": "C2-Benzene",
+                "order": 18,
+                "mw": 106.17,
+                "molar_amount": 0.523,
+                "mass_amount": 0.365
+            },
+            {
+                "composition_id": 3538,
+                "name": "M-Xylene",
+                "input_name": "m&p-Xylene",
+                "order": 19,
+                "mw": 106.17,
+                "molar_amount": 2.27,
+                "mass_amount": 1.587
+            },
+            {
+                "composition_id": 3538,
+                "name": "O-Xylene",
+                "input_name": "o-Xylene",
+                "order": 20,
+                "mw": 106.17,
+                "molar_amount": 0.465,
+                "mass_amount": 0.325
+            },
+            {
+                "composition_id": 3538,
+                "name": "C9",
+                "input_name": "C9",
+                "order": 21,
+                "mw": 121.0,
+                "molar_amount": 9.476,
+                "mass_amount": 7.548
+            },
+            {
+                "composition_id": 3538,
+                "name": "C10",
+                "input_name": "C10",
+                "order": 22,
+                "mw": 134.0,
+                "molar_amount": 9.932,
+                "mass_amount": 8.761
+            },
+            {
+                "composition_id": 3538,
+                "name": "C11",
+                "input_name": "C11",
+                "order": 23,
+                "mw": 147.0,
+                "molar_amount": 6.728,
+                "mass_amount": 6.511
+            },
+            {
+                "composition_id": 3538,
+                "name": "C12",
+                "input_name": "C12",
+                "order": 24,
+                "mw": 161.0,
+                "molar_amount": 4.984,
+                "mass_amount": 5.282
+            },
+            {
+                "composition_id": 3538,
+                "name": "C13",
+                "input_name": "C13",
+                "order": 25,
+                "mw": 175.0,
+                "molar_amount": 4.741,
+                "mass_amount": 5.462
+            },
+            {
+                "composition_id": 3538,
+                "name": "C14",
+                "input_name": "C14",
+                "order": 26,
+                "mw": 190.0,
+                "molar_amount": 3.753,
+                "mass_amount": 4.694
+            },
+            {
+                "composition_id": 3538,
+                "name": "C15",
+                "input_name": "C15",
+                "order": 27,
+                "mw": 206.0,
+                "molar_amount": 3.482,
+                "mass_amount": 4.721
+            },
+            {
+                "composition_id": 3538,
+                "name": "C16",
+                "input_name": "C16",
+                "order": 28,
+                "mw": 222.0,
+                "molar_amount": 2.704,
+                "mass_amount": 3.952
+            },
+            {
+                "composition_id": 3538,
+                "name": "C17",
+                "input_name": "C17",
+                "order": 29,
+                "mw": 237.0,
+                "molar_amount": 2.336,
+                "mass_amount": 3.645
+            },
+            {
+                "composition_id": 3538,
+                "name": "C18",
+                "input_name": "C18",
+                "order": 30,
+                "mw": 251.0,
+                "molar_amount": 2.061,
+                "mass_amount": 3.405
+            },
+            {
+                "composition_id": 3538,
+                "name": "C19",
+                "input_name": "C19",
+                "order": 31,
+                "mw": 263.0,
+                "molar_amount": 1.707,
+                "mass_amount": 2.955
+            },
+            {
+                "composition_id": 3538,
+                "name": "C20",
+                "input_name": "C20",
+                "order": 32,
+                "mw": 275.0,
+                "molar_amount": 1.278,
+                "mass_amount": 2.314
+            },
+            {
+                "composition_id": 3538,
+                "name": "C21",
+                "input_name": "C21",
+                "order": 33,
+                "mw": 291.0,
+                "molar_amount": 1.046,
+                "mass_amount": 2.004
+            },
+            {
+                "composition_id": 3538,
+                "name": "C22",
+                "input_name": "C22",
+                "order": 34,
+                "mw": 305.0,
+                "molar_amount": 0.856,
+                "mass_amount": 1.719
+            },
+            {
+                "composition_id": 3538,
+                "name": "C23",
+                "input_name": "C23",
+                "order": 35,
+                "mw": 318.0,
+                "molar_amount": 0.718,
+                "mass_amount": 1.503
+            },
+            {
+                "composition_id": 3538,
+                "name": "C24",
+                "input_name": "C24",
+                "order": 36,
+                "mw": 331.0,
+                "molar_amount": 0.604,
+                "mass_amount": 1.316
+            },
+            {
+                "composition_id": 3538,
+                "name": "C25",
+                "input_name": "C25",
+                "order": 37,
+                "mw": 345.0,
+                "molar_amount": 0.52,
+                "mass_amount": 1.18
+            },
+            {
+                "composition_id": 3538,
+                "name": "C26",
+                "input_name": "C26",
+                "order": 38,
+                "mw": 359.0,
+                "molar_amount": 0.451,
+                "mass_amount": 1.066
+            },
+            {
+                "composition_id": 3538,
+                "name": "C27",
+                "input_name": "C27",
+                "order": 39,
+                "mw": 374.0,
+                "molar_amount": 0.386,
+                "mass_amount": 0.95
+            },
+            {
+                "composition_id": 3538,
+                "name": "C28",
+                "input_name": "C28",
+                "order": 40,
+                "mw": 388.0,
+                "molar_amount": 0.327,
+                "mass_amount": 0.834
+            },
+            {
+                "composition_id": 3538,
+                "name": "C29",
+                "input_name": "C29",
+                "order": 41,
+                "mw": 402.0,
+                "molar_amount": 0.278,
+                "mass_amount": 0.737
+            },
+            {
+                "composition_id": 3538,
+                "name": "C30+",
+                "input_name": "C30+",
+                "order": 42,
+                "mw": 580.0,
+                "molar_amount": 1.155,
+                "mass_amount": 4.411
+            }
+        ]
+    },
+    "flashed_oil_analysis_id": 2333,
+    "flashed_oil_analysis": {
+        "id": 2333,
+        "calc_id": "e0f4a888-03f9-4361-bad5-d5bf40dd58f9",
+        "calc_message": {
+            "type": "success",
+            "text": "Calculation complete"
+        },
+        "watson_characterization_factor": 12.069059143709469,
+        "c7p_mw": 159.94248301220833,
+        "c7p_specific_gravity": 0.7861140638188492,
+        "c7p_molar_amount": 91.09099999999998,
+        "c7p_mass_amount": 95.9160816783664,
+        "c10p_molar_amount": 50.047,
+        "c10p_mass_amount": 67.42065158696825,
+        "c7_btex_mw": 94.82932047854602,
+        "c7_btex_sg": 0.6956132406293183,
+        "c8_btex_mw": 105.68697319060342,
+        "c8_btex_sg": 0.7155694600667005,
+        "c9_btex_mw": 117.20581109369797,
+        "c9_btex_sg": 0.7493507621213921,
+        "components": [
+            {
+                "name": "C7",
+                "flashed_oil_analysis_id": 2333,
+                "order": 0,
+                "molar_amount": 0.1573591243920915,
+                "mass_amount": 0.0932880168477241,
+                "is_c10p": false
+            },
+            {
+                "name": "C8",
+                "flashed_oil_analysis_id": 2333,
+                "order": 1,
+                "molar_amount": 0.15342898859382378,
+                "mass_amount": 0.1013678350257512,
+                "is_c10p": false
+            },
+            {
+                "name": "C9",
+                "flashed_oil_analysis_id": 2333,
+                "order": 2,
+                "molar_amount": 0.13979427166240357,
+                "mass_amount": 0.10243124335369796,
+                "is_c10p": false
+            },
+            {
+                "name": "C10",
+                "flashed_oil_analysis_id": 2333,
+                "order": 3,
+                "molar_amount": 0.10903382331953763,
+                "mass_amount": 0.09133843491315499,
+                "is_c10p": true
+            },
+            {
+                "name": "C11",
+                "flashed_oil_analysis_id": 2333,
+                "order": 4,
+                "molar_amount": 0.0738602057283376,
+                "mass_amount": 0.06788089826726997,
+                "is_c10p": true
+            },
+            {
+                "name": "C12",
+                "flashed_oil_analysis_id": 2333,
+                "order": 5,
+                "molar_amount": 0.0547145162529778,
+                "mass_amount": 0.05506787047269544,
+                "is_c10p": true
+            },
+            {
+                "name": "C13",
+                "flashed_oil_analysis_id": 2333,
+                "order": 6,
+                "molar_amount": 0.05204685424465645,
+                "mass_amount": 0.05694447340436624,
+                "is_c10p": true
+            },
+            {
+                "name": "C14",
+                "flashed_oil_analysis_id": 2333,
+                "order": 7,
+                "molar_amount": 0.04120055768407418,
+                "mass_amount": 0.048937634229237484,
+                "is_c10p": true
+            },
+            {
+                "name": "C15",
+                "flashed_oil_analysis_id": 2333,
+                "order": 8,
+                "molar_amount": 0.03822551075298329,
+                "mass_amount": 0.049219124668988104,
+                "is_c10p": true
+            },
+            {
+                "name": "C16",
+                "flashed_oil_analysis_id": 2333,
+                "order": 9,
+                "molar_amount": 0.02968460111317255,
+                "mass_amount": 0.04120185992201673,
+                "is_c10p": true
+            },
+            {
+                "name": "C17",
+                "flashed_oil_analysis_id": 2333,
+                "order": 10,
+                "molar_amount": 0.02564468498534433,
+                "mass_amount": 0.03800120936633374,
+                "is_c10p": true
+            },
+            {
+                "name": "C18",
+                "flashed_oil_analysis_id": 2333,
+                "order": 11,
+                "molar_amount": 0.022625725922429223,
+                "mass_amount": 0.03549907212410601,
+                "is_c10p": true
+            },
+            {
+                "name": "C19",
+                "flashed_oil_analysis_id": 2333,
+                "order": 12,
+                "molar_amount": 0.01873950225598578,
+                "mass_amount": 0.030807564794929004,
+                "is_c10p": true
+            },
+            {
+                "name": "C20",
+                "flashed_oil_analysis_id": 2333,
+                "order": 13,
+                "molar_amount": 0.01402992611783821,
+                "mass_amount": 0.024124773243812424,
+                "is_c10p": true
+            },
+            {
+                "name": "C21",
+                "flashed_oil_analysis_id": 2333,
+                "order": 14,
+                "molar_amount": 0.011483022472033463,
+                "mass_amount": 0.0208928459726016,
+                "is_c10p": true
+            },
+            {
+                "name": "C22",
+                "flashed_oil_analysis_id": 2333,
+                "order": 15,
+                "molar_amount": 0.009397196210383025,
+                "mass_amount": 0.017921557997456164,
+                "is_c10p": true
+            },
+            {
+                "name": "C23",
+                "flashed_oil_analysis_id": 2333,
+                "order": 16,
+                "molar_amount": 0.007882227662447444,
+                "mass_amount": 0.0156696344794512,
+                "is_c10p": true
+            },
+            {
+                "name": "C24",
+                "flashed_oil_analysis_id": 2333,
+                "order": 17,
+                "molar_amount": 0.006630731905457181,
+                "mass_amount": 0.01372005254488209,
+                "is_c10p": true
+            },
+            {
+                "name": "C25",
+                "flashed_oil_analysis_id": 2333,
+                "order": 18,
+                "molar_amount": 0.005708577137148567,
+                "mass_amount": 0.01230217477428637,
+                "is_c10p": true
+            },
+            {
+                "name": "C26",
+                "flashed_oil_analysis_id": 2333,
+                "order": 19,
+                "molar_amount": 0.004951092863180777,
+                "mass_amount": 0.011113659584228197,
+                "is_c10p": true
+            },
+            {
+                "name": "C27",
+                "flashed_oil_analysis_id": 2333,
+                "order": 20,
+                "molar_amount": 0.0042375207210372055,
+                "mass_amount": 0.00990429325048479,
+                "is_c10p": true
+            },
+            {
+                "name": "C28",
+                "flashed_oil_analysis_id": 2333,
+                "order": 21,
+                "molar_amount": 0.0035898167766299643,
+                "mass_amount": 0.008694926916741385,
+                "is_c10p": true
+            },
+            {
+                "name": "C29",
+                "flashed_oil_analysis_id": 2333,
+                "order": 22,
+                "molar_amount": 0.0030518931617832725,
+                "mass_amount": 0.007683646448007674,
+                "is_c10p": true
+            },
+            {
+                "name": "C30",
+                "flashed_oil_analysis_id": 2333,
+                "order": 23,
+                "molar_amount": 0.012679628064243453,
+                "mass_amount": 0.04598719739777727,
+                "is_c10p": true
+            }
+        ]
+    },
+    "flashed_gas_mw": 23.4,
+    "flashed_gas_specific_gravity": 0.808,
+    "flashed_gas_specific_gravity_unit": "SG",
+    "flashed_gas_composition_id": 6561,
+    "flashed_gas_composition": {
+        "id": 6561,
+        "components": [
+            {
+                "composition_id": 6561,
+                "name": "CO2",
+                "input_name": "CO2",
+                "order": 0,
+                "mw": 44.01,
+                "molar_amount": 0.5,
+                "mass_amount": 0.941
+            },
+            {
+                "composition_id": 6561,
+                "name": "H2S",
+                "input_name": "H2S",
+                "order": 1,
+                "mw": 34.08,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "N2",
+                "input_name": "N2",
+                "order": 2,
+                "mw": 28.01,
+                "molar_amount": 1.006,
+                "mass_amount": 1.205
+            },
+            {
+                "composition_id": 6561,
+                "name": "C1",
+                "input_name": "C1",
+                "order": 3,
+                "mw": 16.04,
+                "molar_amount": 71.668,
+                "mass_amount": 49.158
+            },
+            {
+                "composition_id": 6561,
+                "name": "C2",
+                "input_name": "C2",
+                "order": 4,
+                "mw": 30.07,
+                "molar_amount": 14.051,
+                "mass_amount": 18.065
+            },
+            {
+                "composition_id": 6561,
+                "name": "C3",
+                "input_name": "C3",
+                "order": 5,
+                "mw": 44.1,
+                "molar_amount": 6.57,
+                "mass_amount": 12.387
+            },
+            {
+                "composition_id": 6561,
+                "name": "i-C4",
+                "input_name": "i-C4",
+                "order": 6,
+                "mw": 58.12,
+                "molar_amount": 1.159,
+                "mass_amount": 2.88
+            },
+            {
+                "composition_id": 6561,
+                "name": "n-C4",
+                "input_name": "n-C4",
+                "order": 7,
+                "mw": 58.12,
+                "molar_amount": 2.311,
+                "mass_amount": 5.743
+            },
+            {
+                "composition_id": 6561,
+                "name": "i-C5",
+                "input_name": "i-C5",
+                "order": 8,
+                "mw": 72.15,
+                "molar_amount": 0.679,
+                "mass_amount": 2.096
+            },
+            {
+                "composition_id": 6561,
+                "name": "n-C5",
+                "input_name": "n-C5",
+                "order": 9,
+                "mw": 72.15,
+                "molar_amount": 0.758,
+                "mass_amount": 2.338
+            },
+            {
+                "composition_id": 6561,
+                "name": "C6",
+                "input_name": "C6",
+                "order": 10,
+                "mw": 84.0,
+                "molar_amount": 0.608,
+                "mass_amount": 2.182
+            },
+            {
+                "composition_id": 6561,
+                "name": "MC-C5",
+                "input_name": "Mcyclo-C5",
+                "order": 11,
+                "mw": 84.16,
+                "molar_amount": 0.071,
+                "mass_amount": 0.255
+            },
+            {
+                "composition_id": 6561,
+                "name": "Benzene",
+                "input_name": "Benzene",
+                "order": 12,
+                "mw": 78.11,
+                "molar_amount": 0.014,
+                "mass_amount": 0.048
+            },
+            {
+                "composition_id": 6561,
+                "name": "C-C6",
+                "input_name": "Cyclo-C6",
+                "order": 13,
+                "mw": 84.16,
+                "molar_amount": 0.073,
+                "mass_amount": 0.263
+            },
+            {
+                "composition_id": 6561,
+                "name": "C7",
+                "input_name": "C7",
+                "order": 14,
+                "mw": 96.0,
+                "molar_amount": 0.229,
+                "mass_amount": 0.941
+            },
+            {
+                "composition_id": 6561,
+                "name": "2M-C6",
+                "input_name": "Mcyclo-C6",
+                "order": 15,
+                "mw": 98.19,
+                "molar_amount": 0.093,
+                "mass_amount": 0.392
+            },
+            {
+                "composition_id": 6561,
+                "name": "Toluene",
+                "input_name": "Toluene",
+                "order": 16,
+                "mw": 92.14,
+                "molar_amount": 0.025,
+                "mass_amount": 0.099
+            },
+            {
+                "composition_id": 6561,
+                "name": "C8",
+                "input_name": "C8",
+                "order": 17,
+                "mw": 107.0,
+                "molar_amount": 0.092,
+                "mass_amount": 0.422
+            },
+            {
+                "composition_id": 6561,
+                "name": "E-Benzene",
+                "input_name": "C2-Benzene",
+                "order": 18,
+                "mw": 106.17,
+                "molar_amount": 0.001,
+                "mass_amount": 0.004
+            },
+            {
+                "composition_id": 6561,
+                "name": "M-Xylene",
+                "input_name": "m&p-Xylene",
+                "order": 19,
+                "mw": 106.17,
+                "molar_amount": 0.003,
+                "mass_amount": 0.013
+            },
+            {
+                "composition_id": 6561,
+                "name": "O-Xylene",
+                "input_name": "o-Xylene",
+                "order": 20,
+                "mw": 106.17,
+                "molar_amount": 0.001,
+                "mass_amount": 0.006
+            },
+            {
+                "composition_id": 6561,
+                "name": "C9",
+                "input_name": "C9",
+                "order": 21,
+                "mw": 121.0,
+                "molar_amount": 0.04,
+                "mass_amount": 0.206
+            },
+            {
+                "composition_id": 6561,
+                "name": "C10",
+                "input_name": "C10",
+                "order": 22,
+                "mw": 134.0,
+                "molar_amount": 0.009,
+                "mass_amount": 0.049
+            },
+            {
+                "composition_id": 6561,
+                "name": "C11",
+                "input_name": "C11",
+                "order": 23,
+                "mw": 147.0,
+                "molar_amount": 0.006,
+                "mass_amount": 0.036
+            },
+            {
+                "composition_id": 6561,
+                "name": "C12",
+                "input_name": "C12",
+                "order": 24,
+                "mw": 161.0,
+                "molar_amount": 0.003,
+                "mass_amount": 0.022
+            },
+            {
+                "composition_id": 6561,
+                "name": "C13",
+                "input_name": "C13",
+                "order": 25,
+                "mw": 175.0,
+                "molar_amount": 0.003,
+                "mass_amount": 0.023
+            },
+            {
+                "composition_id": 6561,
+                "name": "C14",
+                "input_name": "C14",
+                "order": 26,
+                "mw": 190.0,
+                "molar_amount": 0.003,
+                "mass_amount": 0.025
+            },
+            {
+                "composition_id": 6561,
+                "name": "C15",
+                "input_name": "C15",
+                "order": 27,
+                "mw": 206.0,
+                "molar_amount": 0.023,
+                "mass_amount": 0.203
+            },
+            {
+                "composition_id": 6561,
+                "name": "C16",
+                "input_name": "C16",
+                "order": 28,
+                "mw": 222.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C17",
+                "input_name": "C17",
+                "order": 29,
+                "mw": 237.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C18",
+                "input_name": "C18",
+                "order": 30,
+                "mw": 251.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C19",
+                "input_name": "C19",
+                "order": 31,
+                "mw": 263.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C20",
+                "input_name": "C20",
+                "order": 32,
+                "mw": 275.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C21",
+                "input_name": "C21",
+                "order": 33,
+                "mw": 291.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C22",
+                "input_name": "C22",
+                "order": 34,
+                "mw": 305.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C23",
+                "input_name": "C23",
+                "order": 35,
+                "mw": 318.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C24",
+                "input_name": "C24",
+                "order": 36,
+                "mw": 331.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C25",
+                "input_name": "C25",
+                "order": 37,
+                "mw": 345.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C26",
+                "input_name": "C26",
+                "order": 38,
+                "mw": 359.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C27",
+                "input_name": "C27",
+                "order": 39,
+                "mw": 374.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C28",
+                "input_name": "C28",
+                "order": 40,
+                "mw": 388.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C29",
+                "input_name": "C29",
+                "order": 41,
+                "mw": 402.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 6561,
+                "name": "C30+",
+                "input_name": "C30+",
+                "order": 42,
+                "mw": 580.0,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            }
+        ]
+    },
+    "recombined_fluid_mw": 30.2,
+    "recombined_fluid_gor": 12200.8,
+    "recombined_fluid_gor_unit": "scf/STB",
+    "recombined_fluid_contamination": null,
+    "recombined_fluid_contamination_unit": null,
+    "recombined_fluid_composition_id": 3536,
+    "recombined_fluid_composition": {
+        "id": 3536,
+        "components": [
+            {
+                "composition_id": 3536,
+                "name": "CO2",
+                "input_name": "CO2",
+                "order": 0,
+                "mw": 44.01,
+                "molar_amount": 0.474,
+                "mass_amount": 0.691
+            },
+            {
+                "composition_id": 3536,
+                "name": "H2S",
+                "input_name": "H2S",
+                "order": 1,
+                "mw": 34.08,
+                "molar_amount": 0.0,
+                "mass_amount": 0.0
+            },
+            {
+                "composition_id": 3536,
+                "name": "N2",
+                "input_name": "N2",
+                "order": 2,
+                "mw": 28.01,
+                "molar_amount": 0.953,
+                "mass_amount": 0.885
+            },
+            {
+                "composition_id": 3536,
+                "name": "C1",
+                "input_name": "C1",
+                "order": 3,
+                "mw": 16.04,
+                "molar_amount": 67.882,
+                "mass_amount": 36.088
+            },
+            {
+                "composition_id": 3536,
+                "name": "C2",
+                "input_name": "C2",
+                "order": 4,
+                "mw": 30.07,
+                "molar_amount": 13.309,
+                "mass_amount": 13.262
+            },
+            {
+                "composition_id": 3536,
+                "name": "C3",
+                "input_name": "C3",
+                "order": 5,
+                "mw": 44.1,
+                "molar_amount": 6.318,
+                "mass_amount": 9.232
+            },
+            {
+                "composition_id": 3536,
+                "name": "i-C4",
+                "input_name": "i-C4",
+                "order": 6,
+                "mw": 58.12,
+                "molar_amount": 1.119,
+                "mass_amount": 2.155
+            },
+            {
+                "composition_id": 3536,
+                "name": "n-C4",
+                "input_name": "n-C4",
+                "order": 7,
+                "mw": 58.12,
+                "molar_amount": 2.245,
+                "mass_amount": 4.324
+            },
+            {
+                "composition_id": 3536,
+                "name": "i-C5",
+                "input_name": "i-C5",
+                "order": 8,
+                "mw": 72.15,
+                "molar_amount": 0.676,
+                "mass_amount": 1.616
+            },
+            {
+                "composition_id": 3536,
+                "name": "n-C5",
+                "input_name": "n-C5",
+                "order": 9,
+                "mw": 72.15,
+                "molar_amount": 0.769,
+                "mass_amount": 1.837
+            },
+            {
+                "composition_id": 3536,
+                "name": "C6",
+                "input_name": "C6",
+                "order": 10,
+                "mw": 84.0,
+                "molar_amount": 0.791,
+                "mass_amount": 2.203
+            },
+            {
+                "composition_id": 3536,
+                "name": "MC-C5",
+                "input_name": "Mcyclo-C5",
+                "order": 11,
+                "mw": 84.16,
+                "molar_amount": 0.111,
+                "mass_amount": 0.309
+            },
+            {
+                "composition_id": 3536,
+                "name": "Benzene",
+                "input_name": "Benzene",
+                "order": 12,
+                "mw": 78.11,
+                "molar_amount": 0.021,
+                "mass_amount": 0.054
+            },
+            {
+                "composition_id": 3536,
+                "name": "C-C6",
+                "input_name": "Cyclo-C6",
+                "order": 13,
+                "mw": 84.16,
+                "molar_amount": 0.131,
+                "mass_amount": 0.364
+            },
+            {
+                "composition_id": 3536,
+                "name": "C7",
+                "input_name": "C7",
+                "order": 14,
+                "mw": 96.0,
+                "molar_amount": 0.638,
+                "mass_amount": 2.028
+            },
+            {
+                "composition_id": 3536,
+                "name": "2M-C6",
+                "input_name": "Mcyclo-C6",
+                "order": 15,
+                "mw": 98.19,
+                "molar_amount": 0.313,
+                "mass_amount": 1.017
+            },
+            {
+                "composition_id": 3536,
+                "name": "Toluene",
+                "input_name": "Toluene",
+                "order": 16,
+                "mw": 92.14,
+                "molar_amount": 0.089,
+                "mass_amount": 0.272
+            },
+            {
+                "composition_id": 3536,
+                "name": "C8",
+                "input_name": "C8",
+                "order": 17,
+                "mw": 107.0,
+                "molar_amount": 0.76,
+                "mass_amount": 2.696
+            },
+            {
+                "composition_id": 3536,
+                "name": "E-Benzene",
+                "input_name": "C2-Benzene",
+                "order": 18,
+                "mw": 106.17,
+                "molar_amount": 0.028,
+                "mass_amount": 0.1
+            },
+            {
+                "composition_id": 3536,
+                "name": "M-Xylene",
+                "input_name": "m&p-Xylene",
+                "order": 19,
+                "mw": 106.17,
+                "molar_amount": 0.123,
+                "mass_amount": 0.432
+            },
+            {
+                "composition_id": 3536,
+                "name": "O-Xylene",
+                "input_name": "o-Xylene",
+                "order": 20,
+                "mw": 106.17,
+                "molar_amount": 0.026,
+                "mass_amount": 0.091
+            },
+            {
+                "composition_id": 3536,
+                "name": "C9",
+                "input_name": "C9",
+                "order": 21,
+                "mw": 121.0,
+                "molar_amount": 0.538,
+                "mass_amount": 2.158
+            },
+            {
+                "composition_id": 3536,
+                "name": "C10",
+                "input_name": "C10",
+                "order": 22,
+                "mw": 134.0,
+                "molar_amount": 0.533,
+                "mass_amount": 2.366
+            },
+            {
+                "composition_id": 3536,
+                "name": "C11",
+                "input_name": "C11",
+                "order": 23,
+                "mw": 147.0,
+                "molar_amount": 0.361,
+                "mass_amount": 1.758
+            },
+            {
+                "composition_id": 3536,
+                "name": "C12",
+                "input_name": "C12",
+                "order": 24,
+                "mw": 161.0,
+                "molar_amount": 0.266,
+                "mass_amount": 1.42
+            },
+            {
+                "composition_id": 3536,
+                "name": "C13",
+                "input_name": "C13",
+                "order": 25,
+                "mw": 175.0,
+                "molar_amount": 0.253,
+                "mass_amount": 1.469
+            },
+            {
+                "composition_id": 3536,
+                "name": "C14",
+                "input_name": "C14",
+                "order": 26,
+                "mw": 190.0,
+                "molar_amount": 0.201,
+                "mass_amount": 1.267
+            },
+            {
+                "composition_id": 3536,
+                "name": "C15",
+                "input_name": "C15",
+                "order": 27,
+                "mw": 206.0,
+                "molar_amount": 0.206,
+                "mass_amount": 1.404
+            },
+            {
+                "composition_id": 3536,
+                "name": "C16",
+                "input_name": "C16",
+                "order": 28,
+                "mw": 222.0,
+                "molar_amount": 0.143,
+                "mass_amount": 1.051
+            },
+            {
+                "composition_id": 3536,
+                "name": "C17",
+                "input_name": "C17",
+                "order": 29,
+                "mw": 237.0,
+                "molar_amount": 0.123,
+                "mass_amount": 0.969
+            },
+            {
+                "composition_id": 3536,
+                "name": "C18",
+                "input_name": "C18",
+                "order": 30,
+                "mw": 251.0,
+                "molar_amount": 0.109,
+                "mass_amount": 0.905
+            },
+            {
+                "composition_id": 3536,
+                "name": "C19",
+                "input_name": "C19",
+                "order": 31,
+                "mw": 263.0,
+                "molar_amount": 0.09,
+                "mass_amount": 0.786
+            },
+            {
+                "composition_id": 3536,
+                "name": "C20",
+                "input_name": "C20",
+                "order": 32,
+                "mw": 275.0,
+                "molar_amount": 0.068,
+                "mass_amount": 0.615
+            },
+            {
+                "composition_id": 3536,
+                "name": "C21",
+                "input_name": "C21",
+                "order": 33,
+                "mw": 291.0,
+                "molar_amount": 0.055,
+                "mass_amount": 0.533
+            },
+            {
+                "composition_id": 3536,
+                "name": "C22",
+                "input_name": "C22",
+                "order": 34,
+                "mw": 305.0,
+                "molar_amount": 0.045,
+                "mass_amount": 0.457
+            },
+            {
+                "composition_id": 3536,
+                "name": "C23",
+                "input_name": "C23",
+                "order": 35,
+                "mw": 318.0,
+                "molar_amount": 0.038,
+                "mass_amount": 0.4
+            },
+            {
+                "composition_id": 3536,
+                "name": "C24",
+                "input_name": "C24",
+                "order": 36,
+                "mw": 331.0,
+                "molar_amount": 0.032,
+                "mass_amount": 0.35
+            },
+            {
+                "composition_id": 3536,
+                "name": "C25",
+                "input_name": "C25",
+                "order": 37,
+                "mw": 345.0,
+                "molar_amount": 0.027,
+                "mass_amount": 0.314
+            },
+            {
+                "composition_id": 3536,
+                "name": "C26",
+                "input_name": "C26",
+                "order": 38,
+                "mw": 359.0,
+                "molar_amount": 0.024,
+                "mass_amount": 0.284
+            },
+            {
+                "composition_id": 3536,
+                "name": "C27",
+                "input_name": "C27",
+                "order": 39,
+                "mw": 374.0,
+                "molar_amount": 0.02,
+                "mass_amount": 0.253
+            },
+            {
+                "composition_id": 3536,
+                "name": "C28",
+                "input_name": "C28",
+                "order": 40,
+                "mw": 388.0,
+                "molar_amount": 0.017,
+                "mass_amount": 0.222
+            },
+            {
+                "composition_id": 3536,
+                "name": "C29",
+                "input_name": "C29",
+                "order": 41,
+                "mw": 402.0,
+                "molar_amount": 0.015,
+                "mass_amount": 0.196
+            },
+            {
+                "composition_id": 3536,
+                "name": "C30+",
+                "input_name": "C30+",
+                "order": 42,
+                "mw": 580.0,
+                "molar_amount": 0.061,
+                "mass_amount": 1.173
+            }
+        ]
+    },
+    "recombined_fluid_analysis_id": 1547,
+    "recombined_fluid_analysis": {
+        "id": 1547,
+        "calc_id": "62a36621-41ad-463c-a023-4c29c64a2350",
+        "calc_message": {
+            "type": "success",
+            "text": "Calculation complete"
+        },
+        "c7p_mw": null,
+        "c7p_specific_gravity": null,
+        "c7p_molar_amount": 5.4649453505464916,
+        "c7p_mass_amount": 27.71133731976082,
+        "c10p_molar_amount": 2.6869731302686963,
+        "c10p_mass_amount": 18.19090854548728,
+        "c1_molar_amount": 67.8813211867881,
+        "c1_mass_amount": 36.08583484990901,
+        "h2s_molar_amount": 0.0,
+        "h2s_mass_amount": 0.0,
+        "co2_molar_amount": 0.4739952600473993,
+        "co2_mass_amount": 0.6909585424874509
+    },
+    "id": 1184,
+    "well_id": 298,
+    "name": "4932+16552-IB_SF",
+    "sampling_date": "2012-02-21",
+    "type": "REC",
+    "date": "2024-04-24T13:03:39.440318",
+    "user_email": "wynda@whitson.com",
+    "changed": false,
+    "formation_id": null,
+    "formation_zone_id": null,
+    "field_id": 80,
+    "field_segment_id": null,
+    "basin_id": null,
+    "sub_basin_id": null,
+    "report_id": 311,
+    "qc_status": "error",
+    "fluid_type": "Gas",
+    "fluid_storage_id": null,
+    "mud_sample_id": null,
+    "experiments": [
+        {
+            "saturation_pressure_type": "Dewpoint",
+            "id": 991,
+            "sample_id": 1184,
+            "name": "Constant Composition Expansion",
+            "type": "CCE",
+            "temperature": 106.0,
+            "temperature_unit": "C",
+            "use_lsat": true,
+            "pressure_unit": "psia",
+            "relative_oil_volume_unit": "Vo/Vsat (%)",
+            "single_phase_density_unit": "g/cm3",
+            "relative_total_volume_unit": "Vtot/Vsat",
+            "hide_relative_oil_volume": false,
+            "hide_z_factor": false,
+            "stages": [
+                {
+                    "cce_id": 991,
+                    "order": 0,
+                    "pressure": 9000.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.79,
+                    "single_phase_density": 0.422,
+                    "z_factor": 1.407
+                },
+                {
+                    "cce_id": 991,
+                    "order": 1,
+                    "pressure": 8001.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.817,
+                    "single_phase_density": 0.409,
+                    "z_factor": 1.292
+                },
+                {
+                    "cce_id": 991,
+                    "order": 2,
+                    "pressure": 7542.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.83,
+                    "single_phase_density": 0.402,
+                    "z_factor": 1.238
+                },
+                {
+                    "cce_id": 991,
+                    "order": 3,
+                    "pressure": 6998.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.852,
+                    "single_phase_density": 0.392,
+                    "z_factor": 1.179
+                },
+                {
+                    "cce_id": 991,
+                    "order": 4,
+                    "pressure": 5996.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.898,
+                    "single_phase_density": 0.372,
+                    "z_factor": 1.065
+                },
+                {
+                    "cce_id": 991,
+                    "order": 5,
+                    "pressure": 5502.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.932,
+                    "single_phase_density": 0.358,
+                    "z_factor": 1.015
+                },
+                {
+                    "cce_id": 991,
+                    "order": 6,
+                    "pressure": 5301.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.947,
+                    "single_phase_density": 0.352,
+                    "z_factor": 0.993
+                },
+                {
+                    "cce_id": 991,
+                    "order": 7,
+                    "pressure": 5201.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.957,
+                    "single_phase_density": 0.349,
+                    "z_factor": 0.984
+                },
+                {
+                    "cce_id": 991,
+                    "order": 8,
+                    "pressure": 5100.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.964,
+                    "single_phase_density": 0.346,
+                    "z_factor": 0.972
+                },
+                {
+                    "cce_id": 991,
+                    "order": 9,
+                    "pressure": 4999.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.97,
+                    "single_phase_density": 0.344,
+                    "z_factor": 0.959
+                },
+                {
+                    "cce_id": 991,
+                    "order": 10,
+                    "pressure": 4898.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.979,
+                    "single_phase_density": 0.341,
+                    "z_factor": 0.949
+                },
+                {
+                    "cce_id": 991,
+                    "order": 11,
+                    "pressure": 4800.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.987,
+                    "single_phase_density": 0.338,
+                    "z_factor": 0.937
+                },
+                {
+                    "cce_id": 991,
+                    "order": 12,
+                    "pressure": 4702.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": null,
+                    "relative_total_volume": 0.995,
+                    "single_phase_density": 0.335,
+                    "z_factor": 0.925
+                },
+                {
+                    "cce_id": 991,
+                    "order": 13,
+                    "pressure": 4661.0,
+                    "is_saturation_pressure": true,
+                    "relative_oil_volume": 0.0,
+                    "relative_total_volume": 1.0,
+                    "single_phase_density": 0.334,
+                    "z_factor": 0.922
+                },
+                {
+                    "cce_id": 991,
+                    "order": 14,
+                    "pressure": 4601.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 0.44,
+                    "relative_total_volume": 0.991,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 15,
+                    "pressure": 4500.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 1.07,
+                    "relative_total_volume": 0.999,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 16,
+                    "pressure": 4251.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 3.3,
+                    "relative_total_volume": 1.031,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 17,
+                    "pressure": 4008.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 5.79,
+                    "relative_total_volume": 1.061,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 18,
+                    "pressure": 3506.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 10.49,
+                    "relative_total_volume": 1.166,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 19,
+                    "pressure": 3255.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 12.77,
+                    "relative_total_volume": 1.233,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 20,
+                    "pressure": 3011.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 14.37,
+                    "relative_total_volume": 1.315,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 21,
+                    "pressure": 2757.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 15.31,
+                    "relative_total_volume": 1.419,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 22,
+                    "pressure": 2503.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 16.11,
+                    "relative_total_volume": 1.553,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 23,
+                    "pressure": 2251.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 16.71,
+                    "relative_total_volume": 1.723,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 24,
+                    "pressure": 1999.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 16.96,
+                    "relative_total_volume": 1.943,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 25,
+                    "pressure": 1749.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 16.91,
+                    "relative_total_volume": 2.242,
+                    "single_phase_density": null,
+                    "z_factor": null
+                },
+                {
+                    "cce_id": 991,
+                    "order": 26,
+                    "pressure": 1500.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 16.29,
+                    "relative_total_volume": 2.642,
+                    "single_phase_density": null,
+                    "z_factor": null
+                }
+            ]
+        },
+        {
+            "liberated_gas_compositions_id": 345,
+            "liberated_gas_compositions": {
+                "id": 345,
+                "components": [
+                    {
+                        "compositions_id": 345,
+                        "name": "CO2",
+                        "input_name": "CO2",
+                        "order": 0,
+                        "mw": 44.01
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "H2S",
+                        "input_name": "H2S",
+                        "order": 1,
+                        "mw": 34.08
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "N2",
+                        "input_name": "N2",
+                        "order": 2,
+                        "mw": 28.01
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C1",
+                        "input_name": "C1",
+                        "order": 3,
+                        "mw": 16.04
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C2",
+                        "input_name": "C2",
+                        "order": 4,
+                        "mw": 30.07
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C3",
+                        "input_name": "C3",
+                        "order": 5,
+                        "mw": 44.1
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "i-C4",
+                        "input_name": "i-C4",
+                        "order": 6,
+                        "mw": 58.12
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "n-C4",
+                        "input_name": "n-C4",
+                        "order": 7,
+                        "mw": 58.12
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "i-C5",
+                        "input_name": "i-C5",
+                        "order": 8,
+                        "mw": 72.15
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "n-C5",
+                        "input_name": "n-C5",
+                        "order": 9,
+                        "mw": 72.15
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C6",
+                        "input_name": "C6",
+                        "order": 10,
+                        "mw": 84.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "MC-C5",
+                        "input_name": "Mcyclo-C5",
+                        "order": 11,
+                        "mw": 84.16
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "Benzene",
+                        "input_name": "Benzene",
+                        "order": 12,
+                        "mw": 78.11
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C-C6",
+                        "input_name": "Cyclo-C6",
+                        "order": 13,
+                        "mw": 84.16
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C7",
+                        "input_name": "C7",
+                        "order": 14,
+                        "mw": 96.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "2M-C6",
+                        "input_name": "Mcyclo-C6",
+                        "order": 15,
+                        "mw": 98.19
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "Toluene",
+                        "input_name": "Toluene",
+                        "order": 16,
+                        "mw": 92.14
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C8",
+                        "input_name": "C8",
+                        "order": 17,
+                        "mw": 107.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "E-Benzene",
+                        "input_name": "C2-Benzene",
+                        "order": 18,
+                        "mw": 106.17
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "M-Xylene",
+                        "input_name": "m&p-Xylene",
+                        "order": 19,
+                        "mw": 106.17
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "O-Xylene",
+                        "input_name": "o-Xylene",
+                        "order": 20,
+                        "mw": 106.17
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C9",
+                        "input_name": "C9",
+                        "order": 21,
+                        "mw": 121.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C10",
+                        "input_name": "C10",
+                        "order": 22,
+                        "mw": 134.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C11",
+                        "input_name": "C11",
+                        "order": 23,
+                        "mw": 147.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C12",
+                        "input_name": "C12",
+                        "order": 24,
+                        "mw": 161.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C13",
+                        "input_name": "C13",
+                        "order": 25,
+                        "mw": 175.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C14",
+                        "input_name": "C14",
+                        "order": 26,
+                        "mw": 190.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C15",
+                        "input_name": "C15",
+                        "order": 27,
+                        "mw": 206.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C16",
+                        "input_name": "C16",
+                        "order": 28,
+                        "mw": 222.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C17",
+                        "input_name": "C17",
+                        "order": 29,
+                        "mw": 237.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C18",
+                        "input_name": "C18",
+                        "order": 30,
+                        "mw": 251.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C19",
+                        "input_name": "C19",
+                        "order": 31,
+                        "mw": 263.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C20",
+                        "input_name": "C20",
+                        "order": 32,
+                        "mw": 275.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C21",
+                        "input_name": "C21",
+                        "order": 33,
+                        "mw": 291.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C22",
+                        "input_name": "C22",
+                        "order": 34,
+                        "mw": 305.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C23",
+                        "input_name": "C23",
+                        "order": 35,
+                        "mw": 318.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C24",
+                        "input_name": "C24",
+                        "order": 36,
+                        "mw": 331.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C25",
+                        "input_name": "C25",
+                        "order": 37,
+                        "mw": 345.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C26",
+                        "input_name": "C26",
+                        "order": 38,
+                        "mw": 359.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C27",
+                        "input_name": "C27",
+                        "order": 39,
+                        "mw": 374.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C28",
+                        "input_name": "C28",
+                        "order": 40,
+                        "mw": 388.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C29",
+                        "input_name": "C29",
+                        "order": 41,
+                        "mw": 402.0
+                    },
+                    {
+                        "compositions_id": 345,
+                        "name": "C30+",
+                        "input_name": "C30+",
+                        "order": 42,
+                        "mw": 750.0
+                    }
+                ],
+                "stages": [
+                    {
+                        "compositions_id": 345,
+                        "stage_number": 0,
+                        "composition": [
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "2M-C6",
+                                "molar_amount": 0.305
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "Benzene",
+                                "molar_amount": 0.021
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C1",
+                                "molar_amount": 68.261
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C10",
+                                "molar_amount": 0.514
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C11",
+                                "molar_amount": 0.348
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C12",
+                                "molar_amount": 0.257
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C13",
+                                "molar_amount": 0.244
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C14",
+                                "molar_amount": 0.194
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C15",
+                                "molar_amount": 0.199
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C16",
+                                "molar_amount": 0.138
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C17",
+                                "molar_amount": 0.119
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C18",
+                                "molar_amount": 0.105
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C19",
+                                "molar_amount": 0.087
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C2",
+                                "molar_amount": 13.242
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C20",
+                                "molar_amount": 0.065
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C21",
+                                "molar_amount": 0.053
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C22",
+                                "molar_amount": 0.044
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C23",
+                                "molar_amount": 0.037
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C24",
+                                "molar_amount": 0.031
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C25",
+                                "molar_amount": 0.026
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C26",
+                                "molar_amount": 0.023
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C27",
+                                "molar_amount": 0.02
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C28",
+                                "molar_amount": 0.017
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C29",
+                                "molar_amount": 0.014
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C3",
+                                "molar_amount": 6.245
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C30+",
+                                "molar_amount": 0.045
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C6",
+                                "molar_amount": 0.783
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C7",
+                                "molar_amount": 0.622
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C8",
+                                "molar_amount": 0.736
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C9",
+                                "molar_amount": 0.52
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "C-C6",
+                                "molar_amount": 0.128
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "CO2",
+                                "molar_amount": 0.473
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "E-Benzene",
+                                "molar_amount": 0.027
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "H2S",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "i-C4",
+                                "molar_amount": 1.106
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "i-C5",
+                                "molar_amount": 0.654
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "MC-C5",
+                                "molar_amount": 0.109
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "M-Xylene",
+                                "molar_amount": 0.118
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "N2",
+                                "molar_amount": 0.952
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "n-C4",
+                                "molar_amount": 2.241
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "n-C5",
+                                "molar_amount": 0.766
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "O-Xylene",
+                                "molar_amount": 0.025
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 0,
+                                "component_name": "Toluene",
+                                "molar_amount": 0.087
+                            }
+                        ]
+                    },
+                    {
+                        "compositions_id": 345,
+                        "stage_number": 1,
+                        "composition": [
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "2M-C6",
+                                "molar_amount": 0.275
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "Benzene",
+                                "molar_amount": 0.019
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C1",
+                                "molar_amount": 68.584
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C10",
+                                "molar_amount": 0.483
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C11",
+                                "molar_amount": 0.305
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C12",
+                                "molar_amount": 0.223
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C13",
+                                "molar_amount": 0.211
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C14",
+                                "molar_amount": 0.166
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C15",
+                                "molar_amount": 0.151
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C16",
+                                "molar_amount": 0.117
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C17",
+                                "molar_amount": 0.103
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C18",
+                                "molar_amount": 0.088
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C19",
+                                "molar_amount": 0.072
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C2",
+                                "molar_amount": 13.412
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C20",
+                                "molar_amount": 0.054
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C21",
+                                "molar_amount": 0.044
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C22",
+                                "molar_amount": 0.036
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C23",
+                                "molar_amount": 0.029
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C24",
+                                "molar_amount": 0.025
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C25",
+                                "molar_amount": 0.022
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C26",
+                                "molar_amount": 0.019
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C27",
+                                "molar_amount": 0.016
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C28",
+                                "molar_amount": 0.013
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C29",
+                                "molar_amount": 0.011
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C3",
+                                "molar_amount": 6.259
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C30+",
+                                "molar_amount": 0.023
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C6",
+                                "molar_amount": 0.764
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C7",
+                                "molar_amount": 0.618
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C8",
+                                "molar_amount": 0.728
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C9",
+                                "molar_amount": 0.503
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "C-C6",
+                                "molar_amount": 0.119
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "CO2",
+                                "molar_amount": 0.497
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "E-Benzene",
+                                "molar_amount": 0.026
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "H2S",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "i-C4",
+                                "molar_amount": 1.1
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "i-C5",
+                                "molar_amount": 0.642
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "MC-C5",
+                                "molar_amount": 0.105
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "M-Xylene",
+                                "molar_amount": 0.108
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "N2",
+                                "molar_amount": 1.005
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "n-C4",
+                                "molar_amount": 2.19
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "n-C5",
+                                "molar_amount": 0.731
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "O-Xylene",
+                                "molar_amount": 0.023
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 1,
+                                "component_name": "Toluene",
+                                "molar_amount": 0.083
+                            }
+                        ]
+                    },
+                    {
+                        "compositions_id": 345,
+                        "stage_number": 2,
+                        "composition": [
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "2M-C6",
+                                "molar_amount": 0.268
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "Benzene",
+                                "molar_amount": 0.017
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C1",
+                                "molar_amount": 69.901
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C10",
+                                "molar_amount": 0.418
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C11",
+                                "molar_amount": 0.246
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C12",
+                                "molar_amount": 0.183
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C13",
+                                "molar_amount": 0.173
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C14",
+                                "molar_amount": 0.13
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C15",
+                                "molar_amount": 0.119
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C16",
+                                "molar_amount": 0.096
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C17",
+                                "molar_amount": 0.08
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C18",
+                                "molar_amount": 0.068
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C19",
+                                "molar_amount": 0.053
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C2",
+                                "molar_amount": 13.238
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C20",
+                                "molar_amount": 0.04
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C21",
+                                "molar_amount": 0.031
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C22",
+                                "molar_amount": 0.025
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C23",
+                                "molar_amount": 0.02
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C24",
+                                "molar_amount": 0.017
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C25",
+                                "molar_amount": 0.014
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C26",
+                                "molar_amount": 0.012
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C27",
+                                "molar_amount": 0.01
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C28",
+                                "molar_amount": 0.007
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C29",
+                                "molar_amount": 0.005
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C3",
+                                "molar_amount": 6.139
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C30+",
+                                "molar_amount": 0.01
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C6",
+                                "molar_amount": 0.691
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C7",
+                                "molar_amount": 0.565
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C8",
+                                "molar_amount": 0.662
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C9",
+                                "molar_amount": 0.443
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "C-C6",
+                                "molar_amount": 0.106
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "CO2",
+                                "molar_amount": 0.482
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "E-Benzene",
+                                "molar_amount": 0.024
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "H2S",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "i-C4",
+                                "molar_amount": 1.067
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "i-C5",
+                                "molar_amount": 0.609
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "MC-C5",
+                                "molar_amount": 0.095
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "M-Xylene",
+                                "molar_amount": 0.096
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "N2",
+                                "molar_amount": 0.972
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "n-C4",
+                                "molar_amount": 2.093
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "n-C5",
+                                "molar_amount": 0.681
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "O-Xylene",
+                                "molar_amount": 0.021
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 2,
+                                "component_name": "Toluene",
+                                "molar_amount": 0.074
+                            }
+                        ]
+                    },
+                    {
+                        "compositions_id": 345,
+                        "stage_number": 3,
+                        "composition": [
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "2M-C6",
+                                "molar_amount": 0.231
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "Benzene",
+                                "molar_amount": 0.015
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C1",
+                                "molar_amount": 71.104
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C10",
+                                "molar_amount": 0.348
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C11",
+                                "molar_amount": 0.195
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C12",
+                                "molar_amount": 0.147
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C13",
+                                "molar_amount": 0.129
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C14",
+                                "molar_amount": 0.091
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C15",
+                                "molar_amount": 0.076
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C16",
+                                "molar_amount": 0.053
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C17",
+                                "molar_amount": 0.042
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C18",
+                                "molar_amount": 0.033
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C19",
+                                "molar_amount": 0.024
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C2",
+                                "molar_amount": 13.314
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C20",
+                                "molar_amount": 0.017
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C21",
+                                "molar_amount": 0.012
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C22",
+                                "molar_amount": 0.009
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C23",
+                                "molar_amount": 0.007
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C24",
+                                "molar_amount": 0.005
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C25",
+                                "molar_amount": 0.004
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C26",
+                                "molar_amount": 0.003
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C27",
+                                "molar_amount": 0.002
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C28",
+                                "molar_amount": 0.001
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C29",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C3",
+                                "molar_amount": 6.005
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C30+",
+                                "molar_amount": 0.002
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C6",
+                                "molar_amount": 0.634
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C7",
+                                "molar_amount": 0.506
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C8",
+                                "molar_amount": 0.571
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C9",
+                                "molar_amount": 0.377
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "C-C6",
+                                "molar_amount": 0.095
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "CO2",
+                                "molar_amount": 0.487
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "E-Benzene",
+                                "molar_amount": 0.02
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "H2S",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "i-C4",
+                                "molar_amount": 1.031
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "i-C5",
+                                "molar_amount": 0.57
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "MC-C5",
+                                "molar_amount": 0.087
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "M-Xylene",
+                                "molar_amount": 0.083
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "N2",
+                                "molar_amount": 0.944
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "n-C4",
+                                "molar_amount": 2.009
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "n-C5",
+                                "molar_amount": 0.635
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "O-Xylene",
+                                "molar_amount": 0.017
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 3,
+                                "component_name": "Toluene",
+                                "molar_amount": 0.064
+                            }
+                        ]
+                    },
+                    {
+                        "compositions_id": 345,
+                        "stage_number": 4,
+                        "composition": [
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "2M-C6",
+                                "molar_amount": 0.198
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "Benzene",
+                                "molar_amount": 0.013
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C1",
+                                "molar_amount": 72.224
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C10",
+                                "molar_amount": 0.249
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C11",
+                                "molar_amount": 0.142
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C12",
+                                "molar_amount": 0.087
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C13",
+                                "molar_amount": 0.069
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C14",
+                                "molar_amount": 0.044
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C15",
+                                "molar_amount": 0.034
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C16",
+                                "molar_amount": 0.022
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C17",
+                                "molar_amount": 0.016
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C18",
+                                "molar_amount": 0.011
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C19",
+                                "molar_amount": 0.007
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C2",
+                                "molar_amount": 13.461
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C20",
+                                "molar_amount": 0.005
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C21",
+                                "molar_amount": 0.003
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C22",
+                                "molar_amount": 0.001
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C23",
+                                "molar_amount": 0.001
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C24",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C25",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C26",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C27",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C28",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C29",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C3",
+                                "molar_amount": 5.928
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C30+",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C6",
+                                "molar_amount": 0.577
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C7",
+                                "molar_amount": 0.443
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C8",
+                                "molar_amount": 0.472
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C9",
+                                "molar_amount": 0.288
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "C-C6",
+                                "molar_amount": 0.084
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "CO2",
+                                "molar_amount": 0.496
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "E-Benzene",
+                                "molar_amount": 0.015
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "H2S",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "i-C4",
+                                "molar_amount": 0.975
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "i-C5",
+                                "molar_amount": 0.521
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "MC-C5",
+                                "molar_amount": 0.078
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "M-Xylene",
+                                "molar_amount": 0.069
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "N2",
+                                "molar_amount": 0.941
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "n-C4",
+                                "molar_amount": 1.88
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "n-C5",
+                                "molar_amount": 0.58
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "O-Xylene",
+                                "molar_amount": 0.013
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 4,
+                                "component_name": "Toluene",
+                                "molar_amount": 0.053
+                            }
+                        ]
+                    },
+                    {
+                        "compositions_id": 345,
+                        "stage_number": 5,
+                        "composition": [
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "2M-C6",
+                                "molar_amount": 0.165
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "Benzene",
+                                "molar_amount": 0.012
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C1",
+                                "molar_amount": 72.744
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C10",
+                                "molar_amount": 0.172
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C11",
+                                "molar_amount": 0.09
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C12",
+                                "molar_amount": 0.051
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C13",
+                                "molar_amount": 0.038
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C14",
+                                "molar_amount": 0.023
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C15",
+                                "molar_amount": 0.018
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C16",
+                                "molar_amount": 0.01
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C17",
+                                "molar_amount": 0.006
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C18",
+                                "molar_amount": 0.005
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C19",
+                                "molar_amount": 0.003
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C2",
+                                "molar_amount": 13.558
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C20",
+                                "molar_amount": 0.001
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C21",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C22",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C23",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C24",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C25",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C26",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C27",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C28",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C29",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C3",
+                                "molar_amount": 6.004
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C30+",
+                                "molar_amount": 0.001
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C6",
+                                "molar_amount": 0.523
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C7",
+                                "molar_amount": 0.379
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C8",
+                                "molar_amount": 0.377
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C9",
+                                "molar_amount": 0.22
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "C-C6",
+                                "molar_amount": 0.073
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "CO2",
+                                "molar_amount": 0.499
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "E-Benzene",
+                                "molar_amount": 0.012
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "H2S",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "i-C4",
+                                "molar_amount": 0.968
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "i-C5",
+                                "molar_amount": 0.501
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "MC-C5",
+                                "molar_amount": 0.069
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "M-Xylene",
+                                "molar_amount": 0.047
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "N2",
+                                "molar_amount": 0.932
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "n-C4",
+                                "molar_amount": 1.893
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "n-C5",
+                                "molar_amount": 0.552
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "O-Xylene",
+                                "molar_amount": 0.01
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 5,
+                                "component_name": "Toluene",
+                                "molar_amount": 0.044
+                            }
+                        ]
+                    },
+                    {
+                        "compositions_id": 345,
+                        "stage_number": 6,
+                        "composition": [
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "2M-C6",
+                                "molar_amount": 0.097
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "Benzene",
+                                "molar_amount": 0.01
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C1",
+                                "molar_amount": 72.964
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C10",
+                                "molar_amount": 0.093
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C11",
+                                "molar_amount": 0.03
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C12",
+                                "molar_amount": 0.015
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C13",
+                                "molar_amount": 0.01
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C14",
+                                "molar_amount": 0.003
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C15",
+                                "molar_amount": 0.001
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C16",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C17",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C18",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C19",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C2",
+                                "molar_amount": 13.947
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C20",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C21",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C22",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C23",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C24",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C25",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C26",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C27",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C28",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C29",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C3",
+                                "molar_amount": 6.161
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C30+",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C6",
+                                "molar_amount": 0.487
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C7",
+                                "molar_amount": 0.288
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C8",
+                                "molar_amount": 0.242
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C9",
+                                "molar_amount": 0.157
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "C-C6",
+                                "molar_amount": 0.064
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "CO2",
+                                "molar_amount": 0.514
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "E-Benzene",
+                                "molar_amount": 0.002
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "H2S",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "i-C4",
+                                "molar_amount": 0.982
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "i-C5",
+                                "molar_amount": 0.5
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "MC-C5",
+                                "molar_amount": 0.048
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "M-Xylene",
+                                "molar_amount": 0.011
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "N2",
+                                "molar_amount": 0.931
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "n-C4",
+                                "molar_amount": 1.857
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "n-C5",
+                                "molar_amount": 0.545
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "O-Xylene",
+                                "molar_amount": 0.005
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 6,
+                                "component_name": "Toluene",
+                                "molar_amount": 0.038
+                            }
+                        ]
+                    },
+                    {
+                        "compositions_id": 345,
+                        "stage_number": 7,
+                        "composition": [
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "2M-C6",
+                                "molar_amount": 0.123
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "Benzene",
+                                "molar_amount": 0.012
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C1",
+                                "molar_amount": 72.91
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C10",
+                                "molar_amount": 0.073
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C11",
+                                "molar_amount": 0.037
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C12",
+                                "molar_amount": 0.015
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C13",
+                                "molar_amount": 0.009
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C14",
+                                "molar_amount": 0.003
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C15",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C16",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C17",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C18",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C19",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C2",
+                                "molar_amount": 13.849
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C20",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C21",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C22",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C23",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C24",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C25",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C26",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C27",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C28",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C29",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C3",
+                                "molar_amount": 6.231
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C30+",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C6",
+                                "molar_amount": 0.473
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C7",
+                                "molar_amount": 0.283
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C8",
+                                "molar_amount": 0.212
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C9",
+                                "molar_amount": 0.155
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "C-C6",
+                                "molar_amount": 0.064
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "CO2",
+                                "molar_amount": 0.504
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "E-Benzene",
+                                "molar_amount": 0.002
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "H2S",
+                                "molar_amount": 0.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "i-C4",
+                                "molar_amount": 1.0
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "i-C5",
+                                "molar_amount": 0.507
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "MC-C5",
+                                "molar_amount": 0.059
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "M-Xylene",
+                                "molar_amount": 0.013
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "N2",
+                                "molar_amount": 0.91
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "n-C4",
+                                "molar_amount": 1.963
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "n-C5",
+                                "molar_amount": 0.551
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "O-Xylene",
+                                "molar_amount": 0.006
+                            },
+                            {
+                                "compositions_id": 345,
+                                "stage_number": 7,
+                                "component_name": "Toluene",
+                                "molar_amount": 0.037
+                            }
+                        ]
+                    }
+                ]
+            },
+            "saturation_pressure_type": "Dewpoint",
+            "id": 992,
+            "sample_id": 1184,
+            "name": "Constant Volume Depletion",
+            "type": "CVD",
+            "temperature": 106.0,
+            "temperature_unit": "C",
+            "final_stage_oil_mw": 100.14,
+            "final_stage_oil_density": 630.0,
+            "final_stage_oil_density_unit": "kg/m3",
+            "stock_tank_oil_density": 630.0,
+            "stock_tank_oil_density_unit": "kg/m3",
+            "final_stage_oil_composition_id": 3539,
+            "final_stage_oil_composition": {
+                "id": 3539,
+                "components": [
+                    {
+                        "composition_id": 3539,
+                        "name": "CO2",
+                        "input_name": "CO2",
+                        "order": 0,
+                        "mw": 44.01,
+                        "molar_amount": 0.213,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "H2S",
+                        "input_name": "H2S",
+                        "order": 1,
+                        "mw": 34.08,
+                        "molar_amount": 0.0,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "N2",
+                        "input_name": "N2",
+                        "order": 2,
+                        "mw": 28.01,
+                        "molar_amount": 0.148,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C1",
+                        "input_name": "C1",
+                        "order": 3,
+                        "mw": 16.04,
+                        "molar_amount": 20.726,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C2",
+                        "input_name": "C2",
+                        "order": 4,
+                        "mw": 30.07,
+                        "molar_amount": 9.121,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C3",
+                        "input_name": "C3",
+                        "order": 5,
+                        "mw": 44.1,
+                        "molar_amount": 7.153,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "i-C4",
+                        "input_name": "i-C4",
+                        "order": 6,
+                        "mw": 58.12,
+                        "molar_amount": 1.748,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "n-C4",
+                        "input_name": "n-C4",
+                        "order": 7,
+                        "mw": 58.12,
+                        "molar_amount": 4.134,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "i-C5",
+                        "input_name": "i-C5",
+                        "order": 8,
+                        "mw": 72.15,
+                        "molar_amount": 1.888,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "n-C5",
+                        "input_name": "n-C5",
+                        "order": 9,
+                        "mw": 72.15,
+                        "molar_amount": 2.367,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C6",
+                        "input_name": "C6",
+                        "order": 10,
+                        "mw": 84.0,
+                        "molar_amount": 3.608,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "MC-C5",
+                        "input_name": "Mcyclo-C5",
+                        "order": 11,
+                        "mw": 84.16,
+                        "molar_amount": 0.606,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "Benzene",
+                        "input_name": "Benzene",
+                        "order": 12,
+                        "mw": 78.11,
+                        "molar_amount": 0.098,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C-C6",
+                        "input_name": "Cyclo-C6",
+                        "order": 13,
+                        "mw": 84.16,
+                        "molar_amount": 0.736,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C7",
+                        "input_name": "C7",
+                        "order": 14,
+                        "mw": 96.0,
+                        "molar_amount": 4.138,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "2M-C6",
+                        "input_name": "Mcyclo-C6",
+                        "order": 15,
+                        "mw": 98.19,
+                        "molar_amount": 2.195,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "Toluene",
+                        "input_name": "Toluene",
+                        "order": 16,
+                        "mw": 92.14,
+                        "molar_amount": 0.591,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C8",
+                        "input_name": "C8",
+                        "order": 17,
+                        "mw": 107.0,
+                        "molar_amount": 6.062,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "E-Benzene",
+                        "input_name": "C2-Benzene",
+                        "order": 18,
+                        "mw": 106.17,
+                        "molar_amount": 0.249,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "M-Xylene",
+                        "input_name": "m&p-Xylene",
+                        "order": 19,
+                        "mw": 106.17,
+                        "molar_amount": 1.082,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "O-Xylene",
+                        "input_name": "o-Xylene",
+                        "order": 20,
+                        "mw": 106.17,
+                        "molar_amount": 0.226,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C9",
+                        "input_name": "C9",
+                        "order": 21,
+                        "mw": 121.0,
+                        "molar_amount": 4.565,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C10",
+                        "input_name": "C10",
+                        "order": 22,
+                        "mw": 134.0,
+                        "molar_amount": 5.026,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C11",
+                        "input_name": "C11",
+                        "order": 23,
+                        "mw": 147.0,
+                        "molar_amount": 3.569,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C12",
+                        "input_name": "C12",
+                        "order": 24,
+                        "mw": 161.0,
+                        "molar_amount": 2.743,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C13",
+                        "input_name": "C13",
+                        "order": 25,
+                        "mw": 175.0,
+                        "molar_amount": 2.681,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C14",
+                        "input_name": "C14",
+                        "order": 26,
+                        "mw": 190.0,
+                        "molar_amount": 2.167,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C15",
+                        "input_name": "C15",
+                        "order": 27,
+                        "mw": 206.0,
+                        "molar_amount": 2.053,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C16",
+                        "input_name": "C16",
+                        "order": 28,
+                        "mw": 222.0,
+                        "molar_amount": 1.678,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C17",
+                        "input_name": "C17",
+                        "order": 29,
+                        "mw": 237.0,
+                        "molar_amount": 1.518,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C18",
+                        "input_name": "C18",
+                        "order": 30,
+                        "mw": 251.0,
+                        "molar_amount": 1.326,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C19",
+                        "input_name": "C19",
+                        "order": 31,
+                        "mw": 263.0,
+                        "molar_amount": 1.07,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C20",
+                        "input_name": "C20",
+                        "order": 32,
+                        "mw": 275.0,
+                        "molar_amount": 0.8,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C21",
+                        "input_name": "C21",
+                        "order": 33,
+                        "mw": 291.0,
+                        "molar_amount": 0.643,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C22",
+                        "input_name": "C22",
+                        "order": 34,
+                        "mw": 305.0,
+                        "molar_amount": 0.523,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C23",
+                        "input_name": "C23",
+                        "order": 35,
+                        "mw": 318.0,
+                        "molar_amount": 0.433,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C24",
+                        "input_name": "C24",
+                        "order": 36,
+                        "mw": 331.0,
+                        "molar_amount": 0.369,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C25",
+                        "input_name": "C25",
+                        "order": 37,
+                        "mw": 345.0,
+                        "molar_amount": 0.314,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C26",
+                        "input_name": "C26",
+                        "order": 38,
+                        "mw": 359.0,
+                        "molar_amount": 0.272,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C27",
+                        "input_name": "C27",
+                        "order": 39,
+                        "mw": 374.0,
+                        "molar_amount": 0.235,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C28",
+                        "input_name": "C28",
+                        "order": 40,
+                        "mw": 388.0,
+                        "molar_amount": 0.203,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C29",
+                        "input_name": "C29",
+                        "order": 41,
+                        "mw": 402.0,
+                        "molar_amount": 0.169,
+                        "mass_amount": null
+                    },
+                    {
+                        "composition_id": 3539,
+                        "name": "C30+",
+                        "input_name": "C30+",
+                        "order": 42,
+                        "mw": 750.0,
+                        "molar_amount": 0.553,
+                        "mass_amount": null
+                    }
+                ]
+            },
+            "pressure_unit": "psia",
+            "oil_density_unit": "g/cm3",
+            "gas_density_unit": "g/cm3",
+            "gas_viscosity_unit": "cP",
+            "relative_oil_volume_unit": "%",
+            "incremental_moles_removed_unit": "%",
+            "cumulative_moles_removed_unit": "%",
+            "hide_incremental_moles_removed": false,
+            "hide_gas_z_factor": false,
+            "hide_gas_specific_gravity": false,
+            "hide_gas_density": false,
+            "hide_gas_viscosity": false,
+            "hide_gas_plus_fraction_mw": true,
+            "hide_oil_density": false,
+            "stages": [
+                {
+                    "cvd_id": 992,
+                    "order": 0,
+                    "pressure": 4661.0,
+                    "is_saturation_pressure": true,
+                    "relative_oil_volume": 0.0,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 0.0,
+                    "oil_density": null,
+                    "gas_z_factor": 0.922,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.339,
+                    "gas_viscosity": 0.042,
+                    "gas_plus_fraction_mw": null
+                },
+                {
+                    "cvd_id": 992,
+                    "order": 1,
+                    "pressure": 4451.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 1.53,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 0.78,
+                    "oil_density": 0.415,
+                    "gas_z_factor": 0.897,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.324,
+                    "gas_viscosity": 0.04,
+                    "gas_plus_fraction_mw": null
+                },
+                {
+                    "cvd_id": 992,
+                    "order": 2,
+                    "pressure": 4100.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 4.32,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 6.56,
+                    "oil_density": 0.438,
+                    "gas_z_factor": 0.861,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.302,
+                    "gas_viscosity": 0.036,
+                    "gas_plus_fraction_mw": null
+                },
+                {
+                    "cvd_id": 992,
+                    "order": 3,
+                    "pressure": 3701.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 7.81,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 13.88,
+                    "oil_density": 0.481,
+                    "gas_z_factor": 0.828,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.27,
+                    "gas_viscosity": 0.032,
+                    "gas_plus_fraction_mw": null
+                },
+                {
+                    "cvd_id": 992,
+                    "order": 4,
+                    "pressure": 3201.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 11.92,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 23.55,
+                    "oil_density": 0.524,
+                    "gas_z_factor": 0.813,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.224,
+                    "gas_viscosity": 0.026,
+                    "gas_plus_fraction_mw": null
+                },
+                {
+                    "cvd_id": 992,
+                    "order": 5,
+                    "pressure": 2600.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 14.15,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 36.31,
+                    "oil_density": 0.556,
+                    "gas_z_factor": 0.813,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.172,
+                    "gas_viscosity": 0.021,
+                    "gas_plus_fraction_mw": null
+                },
+                {
+                    "cvd_id": 992,
+                    "order": 6,
+                    "pressure": 2100.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 14.38,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 47.64,
+                    "oil_density": 0.581,
+                    "gas_z_factor": 0.826,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.133,
+                    "gas_viscosity": 0.019,
+                    "gas_plus_fraction_mw": null
+                },
+                {
+                    "cvd_id": 992,
+                    "order": 7,
+                    "pressure": 1650.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 13.9,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 58.49,
+                    "oil_density": 0.615,
+                    "gas_z_factor": 0.848,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.098,
+                    "gas_viscosity": 0.017,
+                    "gas_plus_fraction_mw": null
+                },
+                {
+                    "cvd_id": 992,
+                    "order": 8,
+                    "pressure": 1300.0,
+                    "is_saturation_pressure": false,
+                    "relative_oil_volume": 13.18,
+                    "incremental_moles_removed": null,
+                    "cumulative_moles_removed": 67.06,
+                    "oil_density": 0.63,
+                    "gas_z_factor": 0.874,
+                    "gas_specific_gravity": null,
+                    "gas_density": 0.075,
+                    "gas_viscosity": 0.015,
+                    "gas_plus_fraction_mw": null
+                }
+            ]
+        },
+        {
+            "id": 994,
+            "sample_id": 1184,
+            "name": "STC Viscosity 40 degC",
+            "type": "VISCO",
+            "temperature": 40.0,
+            "temperature_unit": "C",
+            "pressure_unit": "psia",
+            "oil_viscosity_unit": "cP",
+            "gas_viscosity_unit": "cP",
+            "stages": [
+                {
+                    "visco_id": 994,
+                    "order": 0,
+                    "pressure": 14.696,
+                    "oil_viscosity": 0.88,
+                    "gas_viscosity": null
+                }
+            ]
+        },
+        {
+            "id": 995,
+            "sample_id": 1184,
+            "name": "STC Viscosity 25 degC",
+            "type": "VISCO",
+            "temperature": 25.0,
+            "temperature_unit": "C",
+            "pressure_unit": "psia",
+            "oil_viscosity_unit": "cP",
+            "gas_viscosity_unit": "cP",
+            "stages": [
+                {
+                    "visco_id": 995,
+                    "order": 0,
+                    "pressure": 14.696,
+                    "oil_viscosity": 1.16,
+                    "gas_viscosity": null
+                }
+            ]
+        },
+        {
+            "id": 996,
+            "sample_id": 1184,
+            "name": "STC Viscosity 15 degC",
+            "type": "VISCO",
+            "temperature": 15.0,
+            "temperature_unit": "C",
+            "pressure_unit": "psia",
+            "oil_viscosity_unit": "cP",
+            "gas_viscosity_unit": "cP",
+            "stages": [
+                {
+                    "visco_id": 996,
+                    "order": 0,
+                    "pressure": 14.696,
+                    "oil_viscosity": 1.35,
+                    "gas_viscosity": null
+                }
+            ]
+        }
+    ],
+    "true_vertical_depth": null,
+    "true_vertical_depth_unit": null,
+    "measured_depth": null,
+    "measured_depth_unit": null,
+    "mud_base": null,
+    "mud_contamination": null,
+    "mud_contamination_unit": null,
+    "reservoir_pressure": null,
+    "reservoir_pressure_unit": null,
+    "reservoir_temperature": null,
+    "reservoir_temperature_unit": null,
+    "pressure_when_sampled": null,
+    "pressure_when_sampled_unit": null,
+    "temperature_when_sampled": null,
+    "temperature_when_sampled_unit": null,
+    "transfer_pressure": null,
+    "transfer_pressure_unit": null,
+    "transfer_temperature": null,
+    "transfer_temperature_unit": null,
+    "pressure_at_lab": null,
+    "pressure_at_lab_unit": null,
+    "temperature_at_lab": null,
+    "temperature_at_lab_unit": null,
+    "drawdown_pressure": null,
+    "drawdown_pressure_unit": null,
+    "note": "1) Physically Recombined Fluid (recombination GOR = 10,740 scf / sep bbl, sample pair 2.08 and 2.09)\n2) Reported STO MW is calculated, not measured.",
+    "note_updated": "2025-01-08T11:42:36.316368"
+}
